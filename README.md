@@ -4,7 +4,7 @@
 
 **Henrique Souza** (aka Henrique Loreal).
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="399595b0-d30c-410d-9a3a-fa3c77a15514" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<a data-iframe-width="150" data-iframe-height="270" data-share-badge-id="399595b0-d30c-410d-9a3a-fa3c77a15514" data-share-badge-host="https://www.credly.com"></a><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 - 💻 Computer Scientist who loves designing software architectures
 - 🚀 Solutions Architect Intern @ AWS -- *Opinions are my own*
