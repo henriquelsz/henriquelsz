@@ -4,7 +4,20 @@
 
 **Henrique Souza** (aka Henrique Loreal).
 
-<a data-iframe-width="150" data-iframe-height="270" data-share-badge-id="399595b0-d30c-410d-9a3a-fa3c77a15514" data-share-badge-host="https://www.credly.com"></a><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="399595b0-d30c-410d-9a3a-fa3c77a15514" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+<a 
+   href="https://www.credly.com/badges/399595b0-d30c-410d-9a3a-fa3c77a15514/public_url"
+   target="_blank" 
+   title="Badge AWS Developer – Associate" 
+   alt="AWS Certified Developer – Associate">
+   <img 
+      src="https://images.credly.com/size/680x680/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png"
+      alt="AWS Certified Developer – Associate"
+      width="100px" 
+      style="max-width:100px;"
+      />
+</a>&nbsp; &nbsp;
 
 - 💻 Computer Scientist who loves designing software architectures
 - 🚀 Solutions Architect Intern @ AWS -- *Opinions are my own*
