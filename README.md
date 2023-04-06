@@ -4,8 +4,7 @@
 
 **Henrique Souza** (aka Henrique Loreal).
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="399595b0-d30c-410d-9a3a-fa3c77a15514" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
+<p align="center">
 <a 
    href="https://www.credly.com/badges/399595b0-d30c-410d-9a3a-fa3c77a15514/public_url"
    target="_blank" 
@@ -18,6 +17,31 @@
       style="max-width:100px;"
       />
 </a>&nbsp; &nbsp;
+<a 
+   href="https://www.credly.com/badges/d83490a1-96ae-4ab4-bdea-91d30a1a15ec/public_url"
+   target="_blank" 
+   title="Badge AWS Certified Solutions Architect – Associate" 
+   alt="AWS Certified Solutions Architect – Associate">
+   <img 
+      src="https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"
+      alt="AWS Certified Solutions Architect – Associate"
+      width="100px" 
+      style="max-width:100px;"
+      />
+</a>&nbsp; &nbsp;
+<a 
+   href="https://www.credly.com/badges/0931f88f-c1a2-4e9a-8887-79898e9acb18/public_url"
+   target="_blank" 
+   title="Badge AWS Certified Cloud Practitioner" 
+   alt="AWS Certified Cloud Practitioner">
+   <img 
+      src="https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"
+      alt="AWS Certified Cloud Practitioner"
+      width="100px" 
+      style="max-width:100px;"
+      />
+</a>&nbsp; &nbsp;
+</p>
 
 - 💻 Computer Scientist who loves designing software architectures
 - 🚀 Solutions Architect Intern @ AWS -- *Opinions are my own*
