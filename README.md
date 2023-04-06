@@ -4,7 +4,7 @@
 
 **Henrique Souza** (aka Henrique Loreal).
 
-<p align="center">
+<p align="left">
 <a 
    href="https://www.credly.com/badges/399595b0-d30c-410d-9a3a-fa3c77a15514/public_url"
    target="_blank" 
