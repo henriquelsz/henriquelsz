@@ -53,4 +53,4 @@
 <a href="https://www.linkedin.com/in/henrique-leonardo-souza-2001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="henrique_souza" height="30" width="40" /></a>
 </p>
 
-![henriquelsz's github stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=henriquelsz&theme=react&line_height=40&hide=css)
+[![henriquelsz's GitHub stats](https://github-readme-stats.vercel.app/api?username=henriquelsz&theme=react&line_height=40&hide=css)](https://github.com/anuraghazra/github-readme-stats)
