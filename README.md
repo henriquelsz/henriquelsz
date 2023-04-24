@@ -54,3 +54,5 @@
 </p>
 
 ![henriquelsz's GitHub stats](https://github-readme-stats.vercel.app/api?username=henriquelsz&theme=react&line_height=40&hide=css)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquelsz)
