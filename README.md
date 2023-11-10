@@ -6,6 +6,18 @@
 
 <p align="left">
 <a 
+   href="https://www.credly.com/badges/914c734b-38f8-4a95-8c59-cb65eee8a66f/public_url"
+   target="_blank" 
+   title="Badge AWS Certified Security – Specialty" 
+   alt="AWS Certified Security – Specialty">
+   <img 
+      src="https://images.credly.com/size/680x680/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png"
+      alt="AWS Certified Security – Specialty"
+      width="100px" 
+      style="max-width:100px;"
+      />
+</a>&nbsp; &nbsp;
+<a 
    href="https://www.credly.com/badges/399595b0-d30c-410d-9a3a-fa3c77a15514/public_url"
    target="_blank" 
    title="Badge AWS Developer – Associate" 
