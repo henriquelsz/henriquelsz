@@ -56,9 +56,9 @@
 </p>
 
 - 💻 Computer Scientist who loves designing software architectures
-- 🚀 Solutions Architect Intern @ AWS -- *Opinions are my own*
+- 🚀 Solutions Architect @ Huawei Cloud -- *Opinions are my own*
 - :guitar: Singer, Musician and Rockstar Project in my spare time
-- :brain: I’m currently learning Cybersecurity & Systems design
+- :brain: I’m currently learning Cybersecurity
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
