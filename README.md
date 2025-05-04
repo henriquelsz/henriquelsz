@@ -57,7 +57,7 @@
 
 - 💻 Computer Scientist who loves designing systems and development softwares
 - 🚀 Software Engineer @ Mercado Livre -- *Opinions are my own*
-- :guitar: Singer, Musician and Rockstar Project in my spare time (checkout my Punk band on ![Spotify](https://open.spotify.com/intl-pt/artist/7i8BsqjWKmL30Cqi8TapHH?si=FtuC1IClSZKNiGe5rfqUlg))
+- :guitar: Singer, Musician and Rockstar Project in my spare time -- checkout my Punk band on [Spotify](https://open.spotify.com/intl-pt/artist/7i8BsqjWKmL30Cqi8TapHH?si=FtuC1IClSZKNiGe5rfqUlg)
 - :brain: Cybersecurity and Distributed Systems enthusiast
 
 <h3 align="left">Connect with me:</h3>
