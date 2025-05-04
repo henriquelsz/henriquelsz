@@ -1,4 +1,4 @@
-[![Profile Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhenriquelsz&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![Profile Views](https://img.shields.io/badge/dynamic/json?logo=github&label=Visitors&color=orange&style=for-the-badge&query=%24.count&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fgithub.com%2Fhenriquelsz%2FREADME.md)
 
 ### Hi there 👋
 
