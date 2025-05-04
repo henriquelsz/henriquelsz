@@ -1,4 +1,4 @@
-![Profile Views](https://img.shields.io/badge/dynamic/json?logo=github&label=Visitors&color=orange&style=for-the-badge&query=%24.count&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fgithub.com%2Fhenriquelsz%2FREADME.md)
+![Profile Views](https://komarev.com/ghpvc/?username=henriquelsz&color=blue&style=flat-square)
 
 ### Hi there 👋
 
